@@ -1,4 +1,4 @@
-# WaveGAN을 이용한 asmr 만들기
+# Generate ASMR audio file using WaveGAN
   오디오는 시계열이지만 초당 프레임이 많고 진폭도 커서 기존의 LSTM을 이용하면 원하는 결과가 나오지 않음. 이를 보완한 것이 대표적으로 Google의 Wavenet임.
   그 외에도 DCGAN을 변형한 WaveGAN을 이용하여 오디오 음원을 합성, 생성할 수 있음. [WaveGAN 논문](https://arxiv.org/pdf/1802.04208.pdf) [WaveGAN Github](https://github.com/chrisdonahue/wavegan)를 참조했다.
   
