@@ -1,6 +1,6 @@
 # Generate ASMR audio file using WaveGAN
-  오디오는 시계열이지만 초당 프레임이 많고 진폭도 커서 기존의 LSTM을 이용하면 원하는 결과가 나오지 않음. 이를 보완한 것이 대표적으로 Google의 Wavenet임.
-  그 외에도 DCGAN을 변형한 WaveGAN을 이용하여 오디오 음원을 합성, 생성할 수 있음. [WaveGAN 논문](https://arxiv.org/pdf/1802.04208.pdf) [WaveGAN Github](https://github.com/chrisdonahue/wavegan)를 참조했다.
+  오디오는 시계열이지만 초당 프레임이 많고 진폭도 커서 기존의 LSTM을 이용하면 원하는 결과가 나오지 않는다. 이를 보완한 것이 대표적으로 Google Deepmind의 [Wavenet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)이다.
+  그 외에도 DCGAN을 변형한 WaveGAN을 이용하여 오디오 음원을 합성, 생성할 수 있는데 [WaveGAN 논문](https://arxiv.org/pdf/1802.04208.pdf) [WaveGAN Github](https://github.com/chrisdonahue/wavegan)를 참조하여 ASMR 음원을 만들었다. [WaveGAN Review](https://github.com/vctr7/paper_review/tree/master/wavegan)
   
   학습을 로컬환경에서 진행할 시 시간이 상당히 소요될 뿐더러 한 번에 여러 데이터셋을 훈련시킬 수 없다. 다양한 데이터셋을 빠른 속도로 훈련시키기 위해 사내 MLaas인 [NSML](https://nsml.navercorp.com/)을 이용한다. [NSML Document](https://pages.oss.navercorp.com/nsml/docs.nsml/_build/html/ko_KR/index.html)와 [NSML 예제](https://oss.navercorp.com/nsml/nsml-examples)들을 참고하여 포팅하면 세션별로 GPU를 할당받을 수 있게되어 빠른 속도로 트레이닝이 가능해진다.
 
