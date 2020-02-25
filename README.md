@@ -9,40 +9,40 @@
 
 ### Non-ASMR
 
-  1. Chopin Ballades
+  1. Chopin Ballades(Krystian Zimerman)
   
      [Dataset](https://www.youtube.com/watch?v=Nhd9ymDZ8L0) 
      
      [Output](https://soundcloud.com/pzlambhjdu8z/mix-by-audio-joiner-com-5)
     
 
-  2. Goldberg Variations
+  2. Bach - Goldberg Variations(Glenn Gould)
 
-      [Dataset](https://www.youtube.com/watch?v=Nhd9ymDZ8L0) 
+      [Dataset](https://www.youtube.com/watch?v=Ah392lnFHxM) 
    
       [Output](https://soundcloud.com/pzlambhjdu8z/mix-by-audio-joiner-com-2)
   
-  3. Rachmaninov
+  3. Sergei Rachmaninov - Piano Concerto No.1 1st mov
    
       [Dataset](https://www.youtube.com/watch?v=PSJdLkN8Ki4)
       
       [Output](https://soundcloud.com/pzlambhjdu8z/mix-by-audio-joiner-618814755)
  
-  4. Lala Land
+  4. Lala Land OST(insturments)
   
       [Dataset](https://vibe.naver.com/album/1772995) 
      
       [Output](https://soundcloud.com/pzlambhjdu8z/mix-by-audio-joiner-com-1)
       
   
-  5. Philip Glass
+  5. Philip Glass - Opening
      
       [Dataset](https://www.youtube.com/watch?v=_2vRbNehGB0)
       
       [Output](https://soundcloud.com/pzlambhjdu8z/mix-by-audio-joiner-722086615)
       
       
-  6. Wave
+  6. Antonio Carlos Jobim - Wave
   
       [Dataset](https://www.youtube.com/watch?v=a6KDpB6skA4)
       
@@ -87,13 +87,13 @@
      
       [Output]()
       
-  7. barber shop
+  7. Barber shop
   
       [Dataset](https://www.youtube.com/watch?v=XgRnPbKA7ug)
        
       [Output](https://soundcloud.com/pzlambhjdu8z/mix-by-audio-joiner-833706113)
       
-  8. trafalgar square
+  8. Trafalgar square
   
       [Dataset](https://vibe.naver.com/track/27343933)
       
@@ -105,7 +105,7 @@
       
       [Output](https://soundcloud.com/pzlambhjdu8z/mix-by-audio-joiner-333615183)
       
-  10. Cafe
+  10. Le Café
   
       [Dataset](https://vibe.naver.com/album/3381589)
       
