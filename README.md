@@ -9,7 +9,7 @@
 
 ### Non-ASMR
 
-  1. Chopin Ballades(Krystian Zimerman)
+  1. Chopin - Ballades(Krystian Zimerman)
   
      [Dataset](https://www.youtube.com/watch?v=Nhd9ymDZ8L0) 
      
@@ -85,7 +85,7 @@
   
       [Dataset](https://www.youtube.com/watch?v=-eXfXTA1P2M)
      
-      [Output]()
+      [Output](https://soundcloud.com/pzlambhjdu8z/mix-by-audio-joiner-com-8)
       
   7. Barber shop
   
@@ -116,3 +116,10 @@
       [Dataset](https://www.youtube.com/watch?v=Rrg9tM6s80o) 
    
       [Output](https://soundcloud.com/pzlambhjdu8z/mix-by-audio-joiner-com)
+      
+      
+  ## Referneces
+  
+  - [https://github.com/chrisdonahue/wavegan](https://github.com/chrisdonahue/wavegan)
+  
+  - [https://n-clair.github.io/vision-docs/_build/html/ko_KR/index.html](https://n-clair.github.io/vision-docs/_build/html/ko_KR/index.html)
