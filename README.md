@@ -4,6 +4,9 @@
   
   학습을 로컬환경에서 진행할 시 시간이 상당히 소요될 뿐더러 한 번에 여러 데이터셋을 훈련시킬 수 없다. 다양한 데이터셋을 빠른 속도로 훈련시키기 위해 사내 MLaas인 [NSML](https://nsml.navercorp.com/)을 이용한다. [NSML Document](https://pages.oss.navercorp.com/nsml/docs.nsml/_build/html/ko_KR/index.html)와 [NSML 예제](https://oss.navercorp.com/nsml/nsml-examples)들을 참고하여 포팅하면 세션별로 GPU를 할당받을 수 있게되어 빠른 속도로 트레이닝이 가능해진다.
 
+## Details
+
+- [WaveGAN](https://github.com/vctr7/asmr/blob/master/ppt/WaveGAN.pdf)
 
 ## List
 
