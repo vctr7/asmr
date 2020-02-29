@@ -6,7 +6,7 @@
 
 ## Details
 
-- [WaveGAN](https://github.com/vctr7/asmr/blob/master/ppt/WaveGAN.pdf)
+- [PPT](https://github.com/vctr7/asmr/blob/master/ppt/WaveGAN.pdf)
 
 ## List
 
