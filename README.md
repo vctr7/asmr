@@ -1,6 +1,6 @@
 # Generate ASMR audio file using WaveGAN
 
-  Since audio file is time series data, it has lots of frames per second(44100/sec) and each frame has a huge scope of amplitude(2^16). Furthermore, sound in real life has a cycle, which needs substantial length of frames, therefore it is required to handle these long range of data. As a result, the existing LSTM or RNN model in machine learning libraries are not proper to train the music data.
+  Since audio file is time series data, it has lots of frames per second(44100/sec) and each frame has a huge scope of amplitude(2^16). Furthermore, sound in real life has a cycle, which needs substantial length of frames, therefore it is required to handle the long range of data. As a result, the existing LSTM or RNN model in machine learning libraries are not proper to train the music data.
   
   To overcome these problems, the large receptive fields have to be applied. I could found some methods that use this technic, Google Deepmind's [Wavenet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio) and [WaveGAN](https://arxiv.org/pdf/1802.04208.pdf). Wavenet is based on CNN and WaveGAN used transformation of DCGAN.
   
