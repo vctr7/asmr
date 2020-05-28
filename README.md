@@ -6,7 +6,7 @@
   
   Of the two options, I chose the latter one. And I could generate asmr files by referencing the [paper](https://arxiv.org/pdf/1802.04208.pdf) and the writer's Github [code](https://github.com/chrisdonahue/wavegan).
   
-  If you process the whole procedures in your local environment, it'll take a huge amount of time per each file. To train multiple dataset fastly, I used on-premise MLass [NSML](https://nsml.navercorp.com/). By referencing [NSML Document](https://pages.oss.navercorp.com/nsml/docs.nsml/_build/html/ko_KR/index.html)and [NSML examples](https://oss.navercorp.com/nsml/nsml-examples), you may port your code on NSML and it'll allocate GPU resources so you could save your precious time effectively.
+  If you process the whole procedures in your local environment, it'll take a huge amount of time for each file. To train multiple dataset fastly, I used on-premise MLass [NSML](https://nsml.navercorp.com/). By referencing [NSML Document](https://pages.oss.navercorp.com/nsml/docs.nsml/_build/html/ko_KR/index.html)and [NSML examples](https://oss.navercorp.com/nsml/nsml-examples), you may port your code on NSML and it'll allocate GPU resources so you could effectively save your time and resources.
   
 
 ## Details
